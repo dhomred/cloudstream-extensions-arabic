@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Extensions-48+-green.svg" alt="Extensions Count">
-  <img src="https://github.com/dhomred/cloudstream-extensions-arabic-v2/workflows/Build/badge.svg" alt="Build Status">
+  <img src="https://codeberg.org/dhomred/cloudstream-extensions-arabic/workflows/Build/badge.svg" alt="Build Status">
   <img src="https://img.shields.io/badge/Language-Kotlin-blue.svg" alt="Language">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
 </p>
@@ -69,11 +69,11 @@
 2. اذهب إلى الإعدادات → الملحقات
 3. أضف هذا الرابط:
 ```
-https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic-v2/main/repo.json
+https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/repo.json
 ```
 
 ### الطريقة اليدوية
-1. حمل الملفات من قسم [Releases](https://github.com/dhomred/cloudstream-extensions-arabic-v2/releases)
+1. حمل الملفات من قسم [Releases](https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases)
 2. انسخ الملفات إلى مجلد الملحقات
 3. أعد تشغيل التطبيق
 
@@ -161,8 +161,8 @@ python scripts/analyze.py
 
 ## 📞 التواصل
 
-- **الإبلاغ عن المشكلات:** [Issues](https://github.com/dhomred/cloudstream-extensions-arabic-v2/issues)
-- **اقتراحات الميزات:** [Discussions](https://github.com/dhomred/cloudstream-extensions-arabic-v2/discussions)
+- **الإبلاغ عن المشكلات:** [Issues](https://codeberg.org/dhomred/cloudstream-extensions-arabic/issues)
+- **اقتراحات الميزات:** [Discussions](https://codeberg.org/dhomred/cloudstream-extensions-arabic/issues)
 - **الدعم الفني:** قم بفتح issue جديد
 
 ## ⚖️ الترخيص
@@ -176,7 +176,7 @@ python scripts/analyze.py
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhomred/cloudstream-extensions-arabic-v2">
-    <img src="https://img.shields.io/github/stars/dhomred/cloudstream-extensions-arabic-v2?style=social" alt="Star">
+  <a href="https://codeberg.org/dhomred/cloudstream-extensions-arabic">
+    <img src="https://img.shields.io/github/stars/dhomred/cloudstream-extensions-arabic?style=social" alt="Star">
   </a>
 </p>
