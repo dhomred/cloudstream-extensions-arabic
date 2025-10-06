@@ -3,6 +3,6 @@
   "description": "مستودع ملحقات كلودستريم العربية - يحتوي على 48 مستخرج متقدم لمواقع عربية وعالمية",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/build/plugins.json"
+    "https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/build/plugins.json"
   ]
 }

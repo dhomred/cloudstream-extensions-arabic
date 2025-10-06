@@ -115,7 +115,7 @@ cloudstream-extensions-arabic/
 ### للمطورين
 1. استنسخ المشروع:
    ```bash
-   git clone https://github.com/dhomred/cloudstream-extensions-arabic.git
+   git clone https://codeberg.org/dhomred/cloudstream-extensions-arabic.git
    ```
 2. افتح المشروع في Android Studio
 3. عدل الملفات حسب الحاجة
@@ -209,7 +209,7 @@ cloudstream-extensions-arabic/
 
 إذا أعجبك المشروع، لا تنسى أن تمنحه ⭐ نجمة على GitHub!
 
-**[🌟 امنح النجمة الآن!](https://github.com/dhomred/cloudstream-extensions-arabic)**
+**[🌟 امنح النجمة الآن!](https://codeberg.org/dhomred/cloudstream-extensions-arabic)**
 
 </div>
 
@@ -218,7 +218,7 @@ cloudstream-extensions-arabic/
 <div align="center">
 
 ### 📅 آخر تحديث: $(date +"%Y-%m-%d")
-### 📧 للتواصل: [GitHub Issues](https://github.com/dhomred/cloudstream-extensions-arabic/issues)
+### 📧 للتواصل: [Codeberg Issues](https://codeberg.org/dhomred/cloudstream-extensions-arabic/issues)
 
 **Made with ❤️ by the Arabic Community**
 
