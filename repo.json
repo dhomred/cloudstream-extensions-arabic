@@ -8,7 +8,7 @@
     "url": "https://codeberg.org/dhomred/cloudstream-extensions-arabic",
     "type": "git"
   },
-  "pluginLists": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/build/plugins.json","explanation":"Updating repository URL to point to Codeberg instead of GitHub"}
+  "pluginLists": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/master/build/plugins.json","explanation":"Updating repository URL to point to Codeberg instead of GitHub"}
   "supportedSites": [
     "Akwam", "Anime4up", "AnimeBlkom", "Animeiat", "ArabSeed",
     "Cima4u", "CimaClub", "CimaLeek", "CimaNow", "EgyBest",
@@ -29,10 +29,10 @@
     "تحديثات دورية"
   ],
   "installation": {
-    "primary": "https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json",
-    "fallback": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/main/repo.json",
+    "primary": "https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/master/repo.json",
+    "fallback": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/master/repo.json",
     "manual": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases",
-    "direct_download": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/archive/main.zip"
+    "direct_download": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/archive/master.zip"
   },
   "support": {
     "issues": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/issues",

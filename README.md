@@ -71,13 +71,13 @@
 4. اضغط على زر "+" أو "إضافة"
 5. الصق هذا الرابط:
 ```
-https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json
+https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/master/repo.json
 ```
 
 ⚠️ **روابط بديلة إذا واجهت مشاكل:**
-- **الرئيسي (GitHub):** `https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json`
-- **Codeberg (fallback):** `https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/main/repo.json`
-- **تحميل مباشر:** `https://codeberg.org/dhomred/cloudstream-extensions-arabic/archive/main.zip`
+- **الرئيسي (GitHub):** `https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/master/repo.json`
+- **Codeberg (fallback):** `https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/master/repo.json`
+- **تحميل مباشر:** `https://codeberg.org/dhomred/cloudstream-extensions-arabic/archive/master.zip`
 
 ### الطريقة اليدوية
 1. حمل الملفات من قسم [Releases](https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases)
@@ -173,7 +173,7 @@ python scripts/analyze.py
 #### ✅ الحلول المضمونة:
 1. **استخدم الرابط الرئيسي (موصى به):**
    ```
-   https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json
+   https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/master/repo.json
    ```
 
 2. **إذا استمرت المشكلة، جرب التثبيت اليدوي:**
@@ -181,8 +181,8 @@ python scripts/analyze.py
    - استخرج الملفات إلى مجلد `cloudstream/extensions/`
 
 #### ❌ الروابط التي لا تعمل مع Codeberg:
-- `https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/repo.json` (غير مدعوم)
-- `https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/main/repo.json` (يتطلب صلاحيات)
+- `https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/master/repo.json` (غير مدعوم)
+- `https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/master/repo.json` (يتطلب صلاحيات)
 
 ### المزودين لا يعملون
 - تأكد من أنك متصل بالإنترنت
