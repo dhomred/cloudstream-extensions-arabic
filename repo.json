@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream Arabic Extensions Repository",
+  "description": "مستودع ملحقات كلودستريم العربية - يحتوي على 48 مستخرج متقدم لمواقع عربية وعالمية",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/build/plugins.json"
+  ]
+}
