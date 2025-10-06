@@ -29,8 +29,10 @@
     "تحديثات دورية"
   ],
   "installation": {
-    "easy": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/repo.json",
-    "manual": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases"
+    "primary": "https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json",
+    "fallback": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/main/repo.json",
+    "manual": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases",
+    "direct_download": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/archive/main.zip"
   },
   "support": {
     "issues": "https://codeberg.org/dhomred/cloudstream-extensions-arabic/issues",

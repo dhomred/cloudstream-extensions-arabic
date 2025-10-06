@@ -66,11 +66,18 @@
 
 ### الطريقة السهلة (موصى بها)
 1. افتح تطبيق CloudStream
-2. اذهب إلى الإعدادات → الملحقات
-3. أضف هذا الرابط:
+2. اضغط على أيقونة الإعدادات ⚙️
+3. انتقل إلى "المستودعات" أو "Repositories"
+4. اضغط على زر "+" أو "إضافة"
+5. الصق هذا الرابط:
 ```
-https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/repo.json
+https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json
 ```
+
+⚠️ **روابط بديلة إذا واجهت مشاكل:**
+- **الرئيسي (GitHub):** `https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json`
+- **Codeberg (fallback):** `https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/main/repo.json`
+- **تحميل مباشر:** `https://codeberg.org/dhomred/cloudstream-extensions-arabic/archive/main.zip`
 
 ### الطريقة اليدوية
 1. حمل الملفات من قسم [Releases](https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases)
@@ -158,6 +165,30 @@ python scripts/analyze.py
 - ✅ إضافة اختبارات جودة
 - ✅ تحديث التوثيق
 - ✅ اختبار المزود قبل الإرسال
+
+## 🛠️ استكشاف الأخطاء وإصلاحها
+
+### مشكلة "الصفحة غير موجودة" أو "404" عند إضافة المستودع:
+
+#### ✅ الحلول المضمونة:
+1. **استخدم الرابط الرئيسي (موصى به):**
+   ```
+   https://raw.githubusercontent.com/dhomred/cloudstream-extensions-arabic/main/repo.json
+   ```
+
+2. **إذا استمرت المشكلة، جرب التثبيت اليدوي:**
+   - حمل الملف من [Releases](https://codeberg.org/dhomred/cloudstream-extensions-arabic/releases)
+   - استخرج الملفات إلى مجلد `cloudstream/extensions/`
+
+#### ❌ الروابط التي لا تعمل مع Codeberg:
+- `https://codeberg.org/dhomred/cloudstream-extensions-arabic/raw/branch/main/repo.json` (غير مدعوم)
+- `https://codeberg.org/dhomred/cloudstream-extensions-arabic/src/branch/main/repo.json` (يتطلب صلاحيات)
+
+### المزودين لا يعملون
+- تأكد من أنك متصل بالإنترنت
+- جرب تفعيل/إيقاف المزود من الإعدادات
+- تحقق من وجود تحديثات للتطبيق
+- أبلغ عن المشكلة في قسم [Issues](https://codeberg.org/dhomred/cloudstream-extensions-arabic/issues)
 
 ## 📞 التواصل
 
